@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://tosinbee.github.io/csb-0nbcr9/static/css/main.5e718bae.chunk.css",
-    "main.js": "https://tosinbee.github.io/csb-0nbcr9/static/js/main.43ed33b2.chunk.js",
-    "main.js.map": "https://tosinbee.github.io/csb-0nbcr9/static/js/main.43ed33b2.chunk.js.map",
+    "main.js": "https://tosinbee.github.io/csb-0nbcr9/static/js/main.b2ae867e.chunk.js",
+    "main.js.map": "https://tosinbee.github.io/csb-0nbcr9/static/js/main.b2ae867e.chunk.js.map",
     "runtime-main.js": "https://tosinbee.github.io/csb-0nbcr9/static/js/runtime-main.86add20a.js",
     "runtime-main.js.map": "https://tosinbee.github.io/csb-0nbcr9/static/js/runtime-main.86add20a.js.map",
-    "static/js/2.799d5731.chunk.js": "https://tosinbee.github.io/csb-0nbcr9/static/js/2.799d5731.chunk.js",
-    "static/js/2.799d5731.chunk.js.map": "https://tosinbee.github.io/csb-0nbcr9/static/js/2.799d5731.chunk.js.map",
+    "static/js/2.6407696a.chunk.js": "https://tosinbee.github.io/csb-0nbcr9/static/js/2.6407696a.chunk.js",
+    "static/js/2.6407696a.chunk.js.map": "https://tosinbee.github.io/csb-0nbcr9/static/js/2.6407696a.chunk.js.map",
     "index.html": "https://tosinbee.github.io/csb-0nbcr9/index.html",
     "static/css/main.5e718bae.chunk.css.map": "https://tosinbee.github.io/csb-0nbcr9/static/css/main.5e718bae.chunk.css.map",
-    "static/js/2.799d5731.chunk.js.LICENSE.txt": "https://tosinbee.github.io/csb-0nbcr9/static/js/2.799d5731.chunk.js.LICENSE.txt"
+    "static/js/2.6407696a.chunk.js.LICENSE.txt": "https://tosinbee.github.io/csb-0nbcr9/static/js/2.6407696a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86add20a.js",
-    "static/js/2.799d5731.chunk.js",
+    "static/js/2.6407696a.chunk.js",
     "static/css/main.5e718bae.chunk.css",
-    "static/js/main.43ed33b2.chunk.js"
+    "static/js/main.b2ae867e.chunk.js"
   ]
 }
